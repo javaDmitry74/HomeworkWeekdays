@@ -1,0 +1,32 @@
+
+C
+java:S1481"&Remove this unused "b" local variable.(ÛºŠê8¿á¿­ç.
+[
+java:S1854"9Remove this useless assignment to local variable "myint".(‹†æ•üÿÿÿÿ8š×È­ç.
+]
+java:S1854";Remove this useless assignment to local variable "myshort".(¦óøÿÿÿÿ8ƒæ·­ç.
+M
+java:S1481"+Remove this unused "myByte" local variable.(È§ûĞùÿÿÿÿ8¿á¿­ç.
+H
+java:S1481
+"&Remove this unused "c" local variable.(¦À­Çùÿÿÿÿ8‡Ñ½­ç.
+G
+java:S1481"*Remove this unused "myint" local variable.(‰Ã°8š×È­ç.
+Y
+java:S1854"<Remove this useless assignment to local variable "myDOuble".(ˆòÔ¥8¥òº­ç.
+W
+java:S1854
+"5Remove this useless assignment to local variable "c".(¦À­Çùÿÿÿÿ8‡Ñ½­ç.
+H
+java:S1481"+Remove this unused "mylong" local variable.(¢¸÷í8å…¹­ç.
+N
+java:S1481",Remove this unused "myshort" local variable.(¦óøÿÿÿÿ8ƒæ·­ç.
+J
+java:S1481"-Remove this unused "myDOuble" local variable.(ˆòÔ¥8¥òº­ç.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Èîô’8âµ´­ç.
+0
+java:S1220""Move this file to a named package.
+\
+java:S1854":Remove this useless assignment to local variable "myByte".(È§ûĞùÿÿÿÿ8¿á¿­ç.
+W
+java:S1854":Remove this useless assignment to local variable "mylong".(¢¸÷í8å…¹­ç.
